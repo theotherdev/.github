@@ -1,2 +1,2 @@
-# We're The Other Dev
-A humble software agency of a small team
+We’ve been building on the internet since way before it was cool—WordPress sites in grade school, experimental apps late at night, side projects that made no money but brought all the joy. That spirit turned into Kabeer's Network, and eventually evolved into what we now call Other Dev—a creative technology studio where art and code collide. We’re not here to chase trends or grind 24/7. We believe life isn’t meant to be a to-do list. Our philosophy is simple: work with intention, create with feeling, and make space for rest and experimentation. Because that’s where the good stuff happens.
+
